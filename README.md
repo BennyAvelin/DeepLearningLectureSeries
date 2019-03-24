@@ -17,7 +17,12 @@ The layout is as follows:
 	3. Why Deep Neural Networks are difficult
 	4. Open problems
 3. Understanding SGD and its link to PDE 45 min
-4. TBA
+    1. Quick recap
+    2. Gradient descent algorithm
+    3. Stochastic gradient descent
+    4. Can we model gradient descent?
+    5. What is the connection to PDE?
+4. Survey of network topologies
 5. TBA
 
 The slides are jupyter notebooks to be displayed using jupyter nbconvert slides or using the live [RISE](https://github.com/damianavila/RISE) slide display.
