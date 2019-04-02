@@ -23,7 +23,7 @@ The layout is as follows:
     4. Can we model gradient descent?
     5. What is the connection to PDE?
 4. Survey of network topologies
-5. TBA
+5. The ups and downs of the loss landscape
 
 The slides are jupyter notebooks to be displayed using jupyter nbconvert slides or using the live [RISE](https://github.com/damianavila/RISE) slide display.
 
